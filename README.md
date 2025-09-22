@@ -19,6 +19,9 @@ The custom model consists of a **Generator** and a **Discriminator**, trained en
 
 ---
 
+### 🏷️ Tech Stack 
+`Generative AI` · `GANs` · `Deep Learning` · `Image Generation` · `CIFAR-10` · `Python` · `TensorFlow/Keras`  
+
 ## ⚙️ Getting Started
 
 ### 1️⃣ Setup  
@@ -59,5 +62,4 @@ For any inquiries, please contact **[mukul91066@gmail.com]**.
 
 ---
 
-### 🏷️ Topics  
-`Generative AI` · `GANs` · `Deep Learning` · `Image Generation` · `CIFAR-10` · `Python` · `TensorFlow/Keras`  
+
