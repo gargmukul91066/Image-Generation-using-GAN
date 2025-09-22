@@ -1,4 +1,4 @@
-# Gen AI - Image Generation using GAN
+<img width="1792" height="889" alt="image" src="https://github.com/user-attachments/assets/09a1a4f6-bc5c-4889-92b2-0f55b2fed110" /># Gen AI - Image Generation using GAN
 
 Gen AI is a project focused on generating CIFAR-10-like images using Generative Adversarial Networks (GANs). The custom GAN model consists of a Generator and a Discriminator, trained to produce realistic images and differentiate between real and generated ones.
 
@@ -52,6 +52,6 @@ Gen AI is a project focused on generating CIFAR-10-like images using Generative 
 
 ## Screenshots
 
-![Image 1](screenshots/screenshot1.png)
-![Image 2](screenshots/screenshot2.png)
-![Image 3](screenshots/screenshot3.png)
+![Image 1](<img width="1792" height="889" alt="image" src="https://github.com/user-attachments/assets/1eadd22b-36f3-4939-872f-fc24f4b7e6eb" />)
+![Image 2](<img width="1794" height="919" alt="image" src="https://github.com/user-attachments/assets/64b94294-effe-4fd3-a59b-190068e7e550" />)
+![Image 3](<img width="1796" height="952" alt="image" src="https://github.com/user-attachments/assets/ad0b7ad5-008e-430c-a25f-4b16e57aa2eb" />)
