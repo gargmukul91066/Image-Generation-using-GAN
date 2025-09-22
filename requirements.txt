@@ -1,0 +1,8 @@
+```txt
+# requirements.txt
+numpy>=1.23.0
+matplotlib>=3.7.0
+pillow>=10.0.0
+tensorflow>=2.12.0
+keras>=2.12.0
+jupyter>=1.0.0
